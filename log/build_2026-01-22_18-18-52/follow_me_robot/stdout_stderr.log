@@ -1,0 +1,56 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Found rclpy: 7.1.6 (/opt/ros/jazzy/share/rclpy/cmake)
+-- Found sensor_msgs: 5.3.6 (/opt/ros/jazzy/share/sensor_msgs/cmake)
+-- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found cv_bridge: 4.1.0 (/opt/ros/jazzy/share/cv_bridge/cmake)
+-- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+-- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Configuring done (1.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/vishal/ros2_ws/src/follow_me_robot/build/follow_me_robot
+-- Install configuration: ""
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/lib/follow_me_robot
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/lib/follow_me_robot/follower_node.py
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/lib/follow_me_robot/__init__.py
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/follow_me_robot/launch
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/follow_me_robot/launch/robot_launch.py
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/follow_me_robot/urdf
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/follow_me_robot/urdf/cylinder.urdf.xacro
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/follow_me_robot/urdf/robot.urdf.xacro
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/follow_me_robot/worlds
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/follow_me_robot/worlds/follow_me.sdf
+-- Up-to-date: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/lib/follow_me_robot/follower_node.py
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/ament_index/resource_index/package_run_dependencies/follow_me_robot
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/ament_index/resource_index/parent_prefix_path/follow_me_robot
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/follow_me_robot/environment/ament_prefix_path.sh
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/follow_me_robot/environment/ament_prefix_path.dsv
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/follow_me_robot/environment/path.sh
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/follow_me_robot/environment/path.dsv
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/follow_me_robot/local_setup.bash
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/follow_me_robot/local_setup.sh
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/follow_me_robot/local_setup.zsh
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/follow_me_robot/local_setup.dsv
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/follow_me_robot/package.dsv
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/ament_index/resource_index/packages/follow_me_robot
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/follow_me_robot/cmake/follow_me_robotConfig.cmake
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/follow_me_robot/cmake/follow_me_robotConfig-version.cmake
+-- Installing: /home/vishal/ros2_ws/src/follow_me_robot/install/follow_me_robot/share/follow_me_robot/package.xml
