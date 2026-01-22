@@ -14,12 +14,12 @@ colcon build --packages-select follow_me_robot
 source install/setup.bash
 ## How to Run the Project
 
-### 1. Launch the Simulation
+### Terminal 1. Launch the Simulation
 This command starts Gazebo Harmonic, spawns the robot, and sets up the communication bridge:
 ```bash
 source install/setup.bash
 ros2 launch follow_me_robot robot_launch.py
-###2. Run the Simulation
+### Terminal 2. Run the Simulation
 source install/setup.bash
 ros2 run follow_me_robot follower_node.py
 
