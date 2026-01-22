@@ -2,3 +2,7 @@ build/
 install/
 log/
 __pycache__/
+build/
+install/
+log/
+__pycache__/
