@@ -1,8 +1,0 @@
-source;share/follow_me_robot/hook/cmake_prefix_path.ps1
-source;share/follow_me_robot/hook/cmake_prefix_path.dsv
-source;share/follow_me_robot/hook/cmake_prefix_path.sh
-source;share/follow_me_robot/local_setup.bash
-source;share/follow_me_robot/local_setup.dsv
-source;share/follow_me_robot/local_setup.ps1
-source;share/follow_me_robot/local_setup.sh
-source;share/follow_me_robot/local_setup.zsh
